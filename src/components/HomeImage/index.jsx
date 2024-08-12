@@ -1,5 +1,4 @@
-export default async function HomeImage (){
-    await new Promise((resolve) => setTimeout(resolve, 1500))
+export default  function HomeImage (){
 
 return(
     <div className=" h-screen w-3/4 py-5  max-md:hidden ">
